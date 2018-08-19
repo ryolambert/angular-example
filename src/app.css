@@ -1,0 +1,9 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+h1 {
+	font-size: 3rem;
+	background-color: #FFE53B;
+	background-image: linear-gradient(135deg, #ff9827 0%, #FF2525 74%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	padding-bottom: 0.1em;
+}

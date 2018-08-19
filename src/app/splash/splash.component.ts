@@ -1,6 +1,7 @@
 import {Component, OnInit} from "@angular/core";
 import {User} from "../shared/interfaces/user";
 import {UserService} from "../shared/services/user.service";
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
 	template: require("./splash.component.html")
